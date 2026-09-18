@@ -57,7 +57,7 @@ The global Mobile Device Management (MDM) & Unified Endpoint Management (UEM) ma
 
 ## 💻 Open-Source GitHub Projects 🔓
 
-*Sorted by GitHub Star Count (descending). Badges link directly to each repo's stargazers page.*
+*Sorted by GitHub Stars_Count (descending). Badges link directly to each repo's stargazers page.*
 
 - **[osquery](https://github.com/osquery/osquery)** [![Stars](https://img.shields.io/github/stars/osquery/osquery?style=social&color=white)](https://github.com/osquery/osquery/stargazers)  
   ⚡ Foundational open-source SQL-based endpoint visibility engine. Serves as the core telemetry provider for Fleet and enterprise endpoint security agents across macOS, Windows, and Linux.
