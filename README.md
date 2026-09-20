@@ -52,6 +52,7 @@ The global Mobile Device Management (MDM) & Unified Endpoint Management (UEM) ma
 | **[Miradore](https://www.miradore.com/)** | Cloud-based MDM solution for Android, iOS, macOS, and Windows fleets. | **~$25M Revenue** (Acquired by GoTo) | $2.75/device/month (Premium plan) | Free forever for up to 50 devices; 14-day Premium+ free trial |
 | **[Scalefusion](https://scalefusion.com/)** | Multi-OS endpoint, kiosk, and digital signage management solution. | **~$20M ARR** | $2.00/device/month (billed annually) | 14-day free trial (unlimited devices, no credit card required) |
 | **[Hexnode](https://www.hexnode.com/)** | Unified endpoint management platform offering strict kiosk enforcement, policy management, and security controls. | **~$15M ARR** | $2.20/device/month (Pro plan) | 14-day free trial (Ultra feature set, no credit card required) |
+| **[Rustinion](https://rustinion.com/)** | Cross-platform device provisioning, patching, and monitoring agent written in Rust — Windows, macOS, Linux/BSD, and OpenWRT/pfSense edge devices from one binary. | Early-stage (bootstrapped) | $5.00/seat/month | No free tier; usage-based signup |
 
 ---
 
